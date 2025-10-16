@@ -57,6 +57,10 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        "streaming-red": {
+          DEFAULT: "hsl(var(--streaming-red))",
+          hover: "hsl(var(--streaming-red-hover))",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
